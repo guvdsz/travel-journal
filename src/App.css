@@ -32,8 +32,9 @@ main {
 }
 .card img {
   width: 200px;
-  height: 250px;
+  height: 275px;
   border-radius: 5px;
+  object-fit: cover;
 }
 .content-container {
   display: flex;
